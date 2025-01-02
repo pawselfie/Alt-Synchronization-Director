@@ -139,7 +139,7 @@ layout = [
     [sg.Canvas(size=(image_width, image_height), key="-CANVAS-")],
     [r1],[r2],[r3],
     [sg.Button("Go to field!")],
-    [sg.Text("Made by @riotlsd")],
+    [sg.Text("Made by @pawselfie")],
 ]
 
 window = sg.Window("Riot's RBC Alt Sync v1.0", layout, finalize=True)
