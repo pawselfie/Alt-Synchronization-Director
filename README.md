@@ -1,8 +1,9 @@
 # Alt Synchronization Director
 A python script that, utilizing Discord POST requests and a GUI, makes moving alternate accounts fast and easy.
 
-Note:
+Notes:
 This script uses [aqts](https://github.com/aqts-aqts)' [Natro Alt Synchronization](https://github.com/aqts-aqts/Natro-Alt-Synchronization) extension for [Natro Macro](https://github.com/NatroTeam/NatroMacro), so make sure to set it up before utilizing this script.
+Make sure to check out the [AHK version](https://github.com/pawselfie/AHK-Alt-Synchronization-Director) too.
 
 ## Setup:
 1. Set any alts you want to use this script on as "follower" accounts in [aqts](https://github.com/aqts-aqts)' [Natro Alt Synchronization](https://github.com/aqts-aqts/Natro-Alt-Synchronization) first, and keep track of which channel(s) you're using.
@@ -31,4 +32,4 @@ This script uses [aqts](https://github.com/aqts-aqts)' [Natro Alt Synchronizatio
     -   Remotely control alts even if you cannot access the computer in which they are running.
     -   Have your friends run the macro in their computers if you cannot macro them while playing.
 
-Make sure to dm @riotlsd for any bug reports or questions you may have!
+Make sure to dm @pawselfie for any bug reports or questions you may have!
